@@ -26,7 +26,7 @@ def create_connection(db_name, db_user, db_password, db_host, db_port):
 connection = create_connection(
     "postgres",
     "postgres",
-    "stalinlol",
+    "kekw",
     "127.0.0.1",
     "5432"
 )
